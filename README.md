@@ -64,8 +64,4 @@ Input Image → Caption Generation → VQA → Reasoning → Final Explanation
 - Vision-Language Research
 - Educational Demonstrations
 
-## Author
 
-Palak Bhardwaj  
-B.Tech Computer Science Engineering  
-Jaypee University of Information Technology, Waknaghat
