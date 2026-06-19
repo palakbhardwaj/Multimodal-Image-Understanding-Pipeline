@@ -11,7 +11,7 @@ This document presents an analysis of hallucination issues observed in our multi
 ### Input Image
 
 <p align="center">
-  <img src="../images/hallucination_example.png" width="900">
+  <img src="output.png" width="900">
 </p>
 
 ### Generated Output
